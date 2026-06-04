@@ -2,7 +2,8 @@
 
 Bu projede, iç tehdit tespiti ve kullanıcı davranış analitiği (UEBA) alanında kabul edilen **CERT Insider Threat Dataset (v4.2)** kullanılmıştır. 
 
-* 🔗 **Resmi Veri Seti ve Kaynak Erişimi:** Veri setinin (v4.2) orijinal yayın bültenine, dokümantasyonuna ve indirme talebi sayfasına doğrudan Carnegie Mellon Üniversitesi Yazılım Mühendisliği Enstitüsü üzerinden erişebilirsiniz: [Carnegie Mellon University SEI - CERT Insider Threat Dataset]([https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099](https://kilthub.cmu.edu/articles/dataset/Insider_Threat_Test_Dataset/12841247?file=24856766))
+* 🔗 **Resmi Veri Seti ve Kaynak Erişimi:** Veri setinin (v4.2) orijinal yayın bültenine, dokümantasyonuna ve indirme talebi sayfasına doğrudan Carnegie Mellon Üniversitesi Yazılım Mühendisliği Enstitüsü üzerinden erişebilirsiniz: [Carnegie Mellon University SEI - CERT Insider Threat Dataset]
+https://kilthub.cmu.edu/articles/dataset/Insider_Threat_Test_Dataset/12841247?file=24856766
 * 💾 **Depodaki İşlenmiş Veri (`final_risk_table.csv`):**  Colab ortamında ön işleme tabi tutulmuş, SMOTE ve LSTM Autoencoder modelinin eğitimi ile test süreçlerinde kullanılan özetlenmiş anomali skorları tablosu platformun çalışabilmesi için projeye dahil edilmiştir.
 
 🛠️ Veri Ön İşleme ve Mühendislik Adımları (Colab Süreci)
